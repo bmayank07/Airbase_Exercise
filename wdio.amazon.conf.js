@@ -26,7 +26,7 @@ export const config = {
     ],
 
     exclude: [
-        //'./test/desktop/specs/sellerProfile.js'
+        //
     ],
     maxInstances: 1,
     capabilities: [{
