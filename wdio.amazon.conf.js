@@ -22,7 +22,7 @@ export const config = {
     // will be called from there.
     //
     specs: [
-        'test/desktop/specs/brand2.js'
+        'test/desktop/specs/brand*.js'
     ],
 
     exclude: [
